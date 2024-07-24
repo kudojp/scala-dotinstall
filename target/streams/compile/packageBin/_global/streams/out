@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/daiki/repos/scala-dotinstall/target/scala-2.11/scala-dotinstall_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/daiki/repos/scala-dotinstall/target/scala-2.11/classes/MyApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/daiki/repos/scala-dotinstall/target/scala-2.11/classes/MyApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
