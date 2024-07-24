@@ -1,0 +1,4 @@
+[debug] [scala-dotinstall-test] Classpath dependencies List()
+[debug] [scala-dotinstall-test] Dependencies from configurations List(scala-dotinstall)
+[debug] Bloop wrote the configuration of project 'scala-dotinstall-test' to '/Users/daiki/repos/scala-dotinstall/.bloop/scala-dotinstall-test.json'
+[success] Generated .bloop/scala-dotinstall-test.json
